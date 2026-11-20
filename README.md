@@ -1,1 +1,0 @@
-les persone qui font evoluer Javascript sont les membres de TC39 et ecma262 avec un proccesus en 4 etape
